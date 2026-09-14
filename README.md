@@ -51,7 +51,6 @@ Dropは、ありがたいことに様々な場所で紹介していただき、�
 Dropには、ありがたいことに様々なContent Creatorの方々も遊びに来てくれました。
 
 - [めるしぃ](https://www.tiktok.com/@mercinsane)
-- [Reboot](https://www.tiktok.com/@mercinsane)
 - [Reboot Jinx](https://discord.gg/x2XsEtEJwe) のOwnerさん
 
 など、たくさんの方々にDropをプレイしていただきました。
@@ -75,7 +74,6 @@ Dropには、ありがたいことに様々なContent Creatorの方々も遊び�
 - `35dw`
 - `3zqp`
 - `もっちゃん`
-- `7c8q`
 - `0ly_・`
 - `l0v6l_`
 - `axua__・`
