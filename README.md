@@ -1,4 +1,5 @@
 # Drop src
+**You are not permitted to use this in projects or similar contexts.**
 
 使い方はめんどくさいので書きません。  
 **自分で環境をダウンロードして、頑張ってください。**
