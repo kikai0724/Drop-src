@@ -25,7 +25,7 @@ Dropは、ありがたいことに様々な場所で紹介していただき、�
 
 など、本当にたくさんの方にDropを知っていただきました。
 
-### 📊 Dropの記録
+### Dropの記録
 
 そのおかげで、なんとDiscord Serverのメンバー数は
 
@@ -59,14 +59,14 @@ Dropには、ありがたいことに様々なContent Creatorの方々も遊び�
 
 ---
 
-## 💀 そして、チーター
+## チーター
 
 ですが、リリースして**3日目**。
 
 **チーターが現れます。**
 
 <details>
-<summary>💀 チーター一覧</summary>
+<summary>チーター一覧</summary>
 
 ### おうまいがーいがいとえぐい
 
@@ -96,7 +96,7 @@ Dropには、ありがたいことに様々なContent Creatorの方々も遊び�
 
 ---
 
-## 🌟 Dropを作った理由
+##  Dropを作った理由
 
 そもそもDropは、
 
@@ -111,7 +111,7 @@ Dropには、ありがたいことに様々なContent Creatorの方々も遊び�
 
 ---
 
-## 🔐 FullLockerについて
+## FullLockerについて
 
 FullLockerが欲しい気持ちもわかります。
 
@@ -123,7 +123,7 @@ FullLockerが欲しい気持ちもわかります。
 
 ---
 
-## 🥀 だんだん疲れていった
+## 疲れがすんごい
 
 さらに、TwitterではDropに対するアンチや風評被害もかなり増えていきました。
 
@@ -145,7 +145,7 @@ FullLockerが欲しい気持ちもわかります。
 
 ---
 
-## ❤️ 僕にとっての「楽しい」
+##  「楽しい」
 
 僕の疲れの取り方として一番思いつくのは、
 
@@ -161,7 +161,7 @@ FullLockerが欲しい気持ちもわかります。
 
 ---
 
-## 🛠️ Dropを作っていた人
+## Dropを作っていた人
 
 DropのBackend、Launcher、そしてGameserverまで、基本的に
 
@@ -177,10 +177,6 @@ DropのBackend、Launcher、そしてGameserverまで、基本的に
 
 最初は、そこまで大変ではありませんでした。
 
----
-
-## 🌙 途中から、悪夢を見るようになりました
-
 ……途中から、**悪夢を見るまでは。**
 
 Projectのことを考え続けて、  
@@ -188,11 +184,9 @@ Projectのことを考え続けて、
 LauncherやBackend、Gameserverを管理して、  
 色々な問題に対応して。
 
-気づいたら、現実だけではなく**夢の中までDropのことを考えていました。**
-
 ---
 
-## 💥 そしてDropは
+## そしてDropは
 
 そんな物語がありながら作られた、  
 たくさんの人に遊んでもらいたかった夢のあるProjectは――
@@ -205,7 +199,7 @@ LauncherやBackend、Gameserverを管理して、
 
 ---
 
-# Launcher
+# Launcher(半分くらいAIでコーディングしました！なぜならLauncherに時間かけたくなかったから！)
 
 - [x] Discord Auth
 - [x] Download
@@ -217,3 +211,7 @@ LauncherやBackend、Gameserverを管理して、
 - [x] dll injection
 - [x] Launcher Customize
 - [x] Mod Download
+- [x] 一般的なLauncherとしての機能
+
+# Backend
+
