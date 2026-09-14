@@ -28,4 +28,6 @@ ContentCreatorも[**めるしぃ**](https://www.tiktok.com/@mercinsane)さんや
 もちろん作ってる間もとても楽しかったです。
 
 FullLockerが欲しい気持ちもわかりますが、DMやYoutubeやTwitterなどにまで来る必要はありません。
-僕の性格上そういった圧のかけられたことは拒否ができないので、
+僕の性格上そういった圧のかけられたことは拒否ができないので、仕方なくFullLockerをあげてしまっていました。
+
+そしてTwitterにてDropのアンチや風評被害がすごくてその時点で
