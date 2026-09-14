@@ -70,15 +70,21 @@ Dropには、ありがたいことに様々なContent Creatorの方々も遊び�
 
 ### おうまいがーいがいとえぐい
 
-- `[れいにーさぶ](https://www.youtube.com/@Rainy_sub)`
-- `CheaterName2`
-- `CheaterName3`
-- `CheaterName4`
-
-### 🚨 その他
-
-- `Unknown`
-- `Unknown`
+- `れいにーさぶ`
+- `35dw`
+- `3zqp`
+- `もっちゃん`
+- `7c8q`
+- `0ly_・`
+- `l0v6l_`
+- `axua__・`
+- `dqdw`
+- `furina0x`
+- `3syg.`
+- `xlvzq`
+- `0o9w`
+- `7mzw`
+- `v2exv`
 
 </details>
 
@@ -201,4 +207,13 @@ LauncherやBackend、Gameserverを管理して、
 
 # Launcher
 
-ここからは、Dropに実装されていた機能を紹介していきます。
+- [x] Discord Auth
+- [x] Download
+- [x] Launch
+- [x] Connection
+- [x] WebView
+- [x] TrashAntiCheat
+- [ ] Better Anti Cheat
+- [x] dll injection
+- [x] Launcher Customize
+- [x] Mod Download
