@@ -217,88 +217,91 @@ LauncherやBackend、Gameserverを管理して、
 * ロッカー:
     * [x] アイテムの変更
     * [x] バナーアイコンとバナーカラーの変更
-    * [?] アイテムのスタイル変更を適用する。
-    * [x] Favoriting items.
-    * [x] Marking items as seen.
-* Friends:
-    * [x] Adding friends.
-    * [x] Accepting friend requests.
-    * [x] Removing friends.
-    * [x] Blocking friends.
-    * [x] Setting nicknames.
-    * [x] Removing nicknames.
-* Item Shop:
-    * [x] Customizable Item Shop.
-    * [x] Purchasing items from the Item Shop.
-    * [x] Gifting items to your friends.
-    * [x] Working Auto Item Shop.
-* Refunding:
-    * [x] Working refunding stuff.
+    * [ ] アイテムのスタイル変更を適用
+    * [x] アイテムをお気に入りに追加
+    * [x] アイテムを既読としてマーク
+* フレンド機能:
+    * [x] フレンドの追加
+    * [x] フレンドリクエスト
+    * [x] フレンドを削除
+    * [x] フレンドをブロック
+    * [x] フレンドのニックネームの変更
+    * [x] ニックネームの削除
+* アイテムショップ:
+    * [x] カスタマイズ可能なアイテムショップ
+    * [x] アイテムショップにてアイテムを購入
+    * [x] フレンドにアイテムをギフト
+    * [x] 自動ローテーションアイテムショップ
+* 返金:
+    * [x] 返金関連の処理
 * Discord Bot:
-    * [x] Being able to activate/deactivate the Discord bot.
-    * [x] Commands with very useful functions.
-* BattlePass (s2-s20):
-    * [x] Possibility to buy the battle pass.
-    * [x] Possibility to purchase battle pass levels.
-    * [x] Possibility to gift the battle pass (BETA).
-* Challenges (Backend Part):
-    * [x] Daily missions worked.
-    * [x] Working weekly missions.
-    * [x] You can replace daily quests.
-    * [x] You can get help from your party to complete missions.
-* In-Game Events:
-    * [x] You will be able to activate various events that occurred in the game such as the rift in the sky and much more!
-* Winterfest Event (11.31, 19.01, 23.10, 33.11):
-    * [x] The winterfest event should work with all its rewards!
-* SAC (Support A Creator):
-    * [x] It supports a supported creator, you can set it using the `/createsac {code} {ingame-username}` command on discord.
-    * [x] Rewards in vbucks for those who support a creator.
-* Matchmaker:
-    * [x] An improved matchmaker.
-* Multiple Gameserver Support:
-    * [x] An improved multiple gameserver.
-* Website:
-    * [x] A simple website where you can create an account to join the game.
+    * [x] Discordボットを有効化・無効化できること
+    * [x] たくさんの機能を備えたコマンド
+* バトルパス (s2-s20(s16~18あたりまで動かない)):
+    * [x] バトルパスを購入
+    * [x] バトルパスのレベルを購入(アカウントのレベルは変わらないバグあり)
+    * [x] バトルパスをギフトする機能(機能するかは不明)
+* チャレンジ (Backendの動作):
+    * [x] デイリーミッション
+    * [x] ウィークリーミッション
+    * [x] デイリークエストを入れ替える
+    * [x] パーティーで、ミッションを達成する
+* ゲーム内イベント:
+    * s12用のBackendですが、Reload-Backendベースなのでおそらく使える！
+* SAC(クリエイターサポート):
+    * [ ] クリエイターサポートをする仕組みに対応しており、Discord上で `/createsac {コード} {ゲーム内ユーザー名}` コマンドを使って設定できます。
+    * [x] クリエイターサポートをするクリエイター側へのV-Bucksの報酬
+* マッチメイカー:
+    * [x] 改良されたマッチメイカー
+    * [x] 複数のキューに対応したマッチメイカー(GameServerからapiで期待値を受け取る必要があります)
+    * [x] 改良型マルチゲームサーバー
+* Webサイト(これらは[CloudFlare](https://www.cloudflare.com/ja-jp/)にてトンネルを作成してhttps接続のほうがいいです):
+    * [x] http://{ip}:3551/registerでAIでコーディングしたゴミアカウントを作成できます！
+    * [x] http://{ip}:3551/shopでItemShopを見ることができます！
+    * [x] http://{ip}:3551/gsstatsで期待値を受け取ったマッチメイキングのGUIをみれます！
+    * [x] http://{ip}:3551/adminでadminサイトを見ることができます！(Passwordで入れるようにしたほうがいいです)
 * XMPP:
-    * [x] Parties.
-    * [x] Chat (whispering, global chat, party chat).
-    * [x] Friends.
-* HTTPS/SSL Support:
-    * [x] A working https/ssl system.
+    * [x] パーティシステム！
+    * [x] チャット機能！ (ささやき, グローバルチャット, パーティチャット(現在はオフにしてあるので届け出を出している人はオンにしても大丈夫です))
+    * [x] フレンド機能！
+    * [x] パーティ参加リクエスト
+    * [x] パーティ招待
+    * [x] 離席モード
+    * [x] 欠席モード
+    * [x] Voice Chat機能(s14のみで成功。おそらくs10でも可能)
 
 ## TO-DO
-- [ ] Differentiate ports between xmpp and matchmaker
-- [ ] Create a support with save the world
-- [ ] Create a support with creative
+- [x] Differentiate ports between xmpp and matchmaker
+- [x] もっと改良されたマッチメーカー
+- [x] 簡単にセットアップできるパーティシステム(s1~s30まで)
+- [x] Voice Chat
+- [x] 大体そろえられた昔のFortniteのような機能
+- [x] ArenaHypeの保存
 
-## Discord Bot Commands
+## Discord Bot サポートされた コマンド一覧
 ### User Commands:
-- `/create {email} {username} {password}` - Creates an account on the backend (You can only create 1 account).
-- `/details` - Retrieves your account info.
-- `/lookup {username}` - Retrieves someones account info.
-- `/exchange-code` - Generates an exchange code for login. (One time use for each code and if not used it expires after 5 mins).
-- `/change-username {newUsername}` - You can change your username using this command.
-- `/change-email {newEmail}` - You can change your email using this command.
-- `/change-password {newPassword}` - You can change your password using this command.
-- `/sign-out-of-all-sessions` - Signs you out if you have an active session.
-- `/vbucksamount` - Shows how many vbucks to the user
-- `/giftvbucks {username}` - Send another user your V-Bucks.
-- `/claimvbucks` - Claim your daily {idk the default is 250} V-Bucks
+- `/create {email} {username} {password}` - アカウントを作成（作成できるアカウントは1つのみです）
+- `/details` - アカウント情報を表示
+- `/lookup {username}` - ユーザー名を使って特定の人のアカウント情報を取得
+- `/change-username {newUsername}` - このコマンドを使用して、ユーザー名を変更
+- `/change-email {newEmail}` - このコマンドを使用して、メールアドレスを変更
+- `/change-password {newPassword}` - このコマンドを使用して、パスワードを変更
+- `/sign-out-of-all-sessions` - アクティブなセッションがある場合、サインアウト
 ### Admin Commands:
-- You can only use the admin commands if you are a moderator.
-- `/addall {user}` - Allows you to give a user all cosmetics. Note: This will reset all your lockers to default
-- `/addvbucks {user} {vbucks}` - Lets you change a users amount of vbucks
-- `/additem {user} {cosmeticname}` - The name of the cosmetic you want to give
-- `/create-custom-match-code {code} {ip} {port}` - Create a custom matchmaking code.
-- `/ban {targetUsername}` - Ban a user from the backend by their username.
-- `/createhostaccount` - Creates a host account for Reload Backend.
-- `/createsac {code} {ingame-username}` - Creates a Support A Creator Code.
-- `/custom-match-code-list` - Lists all custom matchmaking codes.
-- `/delete {username}` - Deletes a users account
-- `/deletediscord {username}` - Deletes a users account
-- `/deletesac {username}` - Deletes a Support A Creator Code.
-- `/kick {targetUsername}` - Kick someone out of their current session by their username.
-- `/removevbucks {user} {vbucks}` - Lets you change a users amount of vbucks
-- `/removeitem {user} {cosmeticname}` - Allows you to remove a cosmetic (skin, pickaxe, glider, etc.) from a user
-- `/unban {targetUsername}` - Unban a user from the backend by their username.
+- Config.jsonで設定したDiscordのUserIDの人が使えます
+- `/addall {user}` - ユーザーにすべてのコスメティックを付与。(DropのModアイテムも)
+- `/addhype {user}` - ユーザーにArenaのHypeを送れます
+- `/additemtoall {cosmeticname} {vbucks} {message}` - すべてのUserに特定のアイテムを送信
+- `/additemtoonline {cosmeticname} {vbucks} {message}` - オンラインの全ユーザーに、選択したアイテムまたはV-Bucksを付与
+- `/additemtotime {cosmeticname} {vbucks} {message}` - 指定された時刻以降にログインしたユーザーに、選択されたアイテムまたはV-Bucksを付与
+- `/additem {user} {cosmeticname}` - プレゼントしたいコスメティックの名前を使ってUserにプレゼントをできます。(バグあり)
+- `/ban {targetUsername}` - ユーザー名を使用して、バックエンドからユーザーをBAN
+- `/createhostacc` - Backendのホストアカウントを作成
+- `/delete {username}` - ユーザーのアカウントを削除
+- `/deletediscord {username}` - ユーザーのアカウントを削除
+- `/kick {targetUsername}` - ユーザー名を指定して、現在のセッションからユーザーを強制的にログアウト
+- `/removevbucks {user} {vbucks}` - ユーザーのV-Bucksの量を変更
+- `/removeitem {user} {cosmeticname}` - ユーザーからコスメティック（スキン、ツルハシ、グライダーなど）を削除
+- `/unban {targetUsername}` - ユーザー名を使用して、バックエンドからユーザーのBANを解除
+- `/unbanall` - BANされたユーザーの全解除
 

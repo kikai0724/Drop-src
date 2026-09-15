@@ -1,0 +1,257 @@
+{
+    "contentType": "collection",
+    "contentId": "motd-default-collection",
+    "tcId": "634e8e85-e2fc-4c68-bb10-93604cf6605f",
+    "contentItems": [
+        {
+            "contentType": "content-item",
+            "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+            "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+            "contentFields": {
+                "body": {
+                    "en": "made by kikai_.",
+                    "ja": "Created by kikai_."
+                },
+                "entryType": "Website",
+                "image": [
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "url": "https://i.imgur.com/oASthee.png"
+                    }
+                ],
+                "tabTitleOverride": "Drop!",
+                "tileImage": [
+                    {
+                        "width": 1024,
+                        "height": 512,
+                        "url": "https://i.imgur.com/6ayl4nx.png"
+                    }
+                ],
+                "title": {
+                    "ar": "Welcome To Drop!",
+                    "en": "Welcome To Drop!",
+                    "de": "Welcome To Drop!",
+                    "es": "Welcome To Drop!",
+                    "es-419": "Welcome To Drop!",
+                    "fr": "Welcome To Drop!",
+                    "it": "Welcome To Drop!",
+                    "ja": "Dropへようこそ!",
+                    "ko": "Welcome To Drop!",
+                    "pl": "Welcome To Drop!",
+                    "pt-BR": "Welcome To Drop!",
+                    "ru": "Welcome To Drop!",
+                    "tr": "Welcome To Drop!"
+                },
+                "videoAutoplay": false,
+                "videoLoop": false,
+                "videoMute": false,
+                "videoStreamingEnabled": false,
+                "websiteButtonText": "View Site",
+                "websiteURL": "https://guns.lol/kikai"
+            },
+            "contentHash": "OGFNHostingContentHash1337",
+            "contentSchemaName": "MotdWebsiteNewsWithVideo"
+        },
+        {
+            "contentType": "content-item",
+            "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+            "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+            "contentFields": {
+                "body": {
+                    "en": "Click the button to play the video!",
+                    "ja": "ボタンをクリックして動画を再生しよう!"
+                },
+                "entryType": "Website",
+                "image": [
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "url": "https://i.imgur.com/iJzBEYE.png"
+                    }
+                ],
+                "tabTitleOverride": "Youtube NEWS",
+                "tileImage": [
+                    {
+                        "width": 1024,
+                        "height": 512,
+                        "url": "https://i.imgur.com/PzDxGEJ.png"
+                    }
+                ],
+                "title": {
+                    "ar": "Check out \"Metsuto's\" recommended videos!",
+                    "en": "Check out \"Metsuto's\" recommended videos!",
+                    "de": "Check out \"Metsuto's\" recommended videos!",
+                    "es": "Check out \"Metsuto's\" recommended videos!",
+                    "es-419": "Check out \"Metsuto's\" recommended videos!",
+                    "fr": "Check out \"Metsuto's\" recommended videos!",
+                    "it": "Check out \"Metsuto's\" recommended videos!",
+                    "ja": "めつとのおすすめの動画を見よう!",
+                    "ko": "Check out \"Metsuto's\" recommended videos!",
+                    "pl": "Check out \"Metsuto's\" recommended videos!",
+                    "pt-BR": "Check out \"Metsuto's\" recommended videos!",
+                    "ru": "Check out \"Metsuto's\" recommended videos!",
+                    "tr": "Check out \"Metsuto's\" recommended videos!"
+                },
+                "videoAutoplay": false,
+                "videoLoop": false,
+                "videoMute": false,
+                "videoStreamingEnabled": false,
+                "websiteButtonText": "View Video",
+                "websiteURL": "https://youtu.be/gRnzwbU44CU?si=bYjkSpDOEoU6Y0Ry"
+            },
+            "contentHash": "OGFNHostingContentHash1337",
+            "contentSchemaName": "MotdWebsiteNewsWithVideo"
+        },
+        {
+            "contentType": "content-item",
+            "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+            "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+            "contentFields": {
+                "body": {
+                    "en": "Click the button to play the video!",
+                    "ja": "ボタンをクリックして動画を再生しよう!"
+                },
+                "entryType": "Website",
+                "image": [
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "url": "https://i.imgur.com/lb7A9YU.png"
+                    }
+                ],
+                "tabTitleOverride": "Youtube NEWS",
+                "tileImage": [
+                    {
+                        "width": 1024,
+                        "height": 512,
+                        "url": "https://i.imgur.com/9uFxxMq.png"
+                    }
+                ],
+                "title": {
+                    "ar": "Check out \"Terry's\" recommended videos!",
+                    "en": "Check out \"Terry's\" recommended videos!",
+                    "de": "Check out \"Terry's\" recommended videos!",
+                    "es": "Check out \"Terry's\" recommended videos!",
+                    "es-419": "Check out \"Terry's\" recommended videos!",
+                    "fr": "Check out \"Terry's\" recommended videos!",
+                    "it": "Check out \"Terry's\" recommended videos!",
+                    "ja": "てりーのおすすめの動画を見よう!",
+                    "ko": "Check out \"Terry's\" recommended videos!",
+                    "pl": "Check out \"Terry's\" recommended videos!",
+                    "pt-BR": "Check out \"Terry's\" recommended videos!",
+                    "ru": "Check out \"Terry's\" recommended videos!",
+                    "tr": "Check out \"Terry's\" recommended videos!"
+                },
+                "videoAutoplay": false,
+                "videoLoop": false,
+                "videoMute": false,
+                "videoStreamingEnabled": false,
+                "websiteButtonText": "View Video",
+                "websiteURL": "https://youtu.be/J6ElqQ6pKTM?si=YligFqeNkFeC6M7B"
+            },
+            "contentHash": "OGFNHostingContentHash1337",
+            "contentSchemaName": "MotdWebsiteNewsWithVideo"
+        },
+        {
+            "contentType": "content-item",
+            "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+            "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+            "contentFields": {
+                "body": {
+                    "en": "Click the button to check out the Discord Server!",
+                    "ja": "Click the button to check out the Discord server!"
+                },
+                "entryType": "Website",
+                "image": [
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "url": "https://i.imgur.com/nKuGYqe.png"
+                    }
+                ],
+                "tabTitleOverride": "Drop NEWS",
+                "tileImage": [
+                    {
+                        "width": 1024,
+                        "height": 512,
+                        "url": "https://i.imgur.com/Ac1RVEH.png"
+                    }
+                ],
+                "title": {
+                    "ar": "A party function has been added to Drop!",
+                    "en": "A party function has been added to Drop!",
+                    "de": "A party function has been added to Drop!",
+                    "es": "A party function has been added to Drop!",
+                    "es-419": "A party function has been added to Drop!",
+                    "fr": "A party function has been added to Drop!",
+                    "it": "A party function has been added to Drop!",
+                    "ja": "Dropにパーティ機能が追加!",
+                    "ko": "A party function has been added to Drop!",
+                    "pl": "A party function has been added to Drop!",
+                    "pt-BR": "A party function has been added to Drop!",
+                    "ru": "A party function has been added to Drop!",
+                    "tr": "A party function has been added to Drop!"
+                },
+                "videoAutoplay": false,
+                "videoLoop": false,
+                "videoMute": false,
+                "videoStreamingEnabled": false,
+                "websiteButtonText": "Discord Server",
+                "websiteURL": "https://discord.gg/dropfn"
+            },
+            "contentHash": "OGFNHostingContentHash1337",
+            "contentSchemaName": "MotdWebsiteNewsWithVideo"
+        },
+        {
+            "contentType": "content-item",
+            "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+            "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+            "contentFields": {
+                "body": {
+                    "en": "Click the button to check out the After's TikTok profile!",
+                    "ja": "Click the button to check out After's TikTok!"
+                },
+                "entryType": "Website",
+                "image": [
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "url": "https://i.imgur.com/Jir9vHQ.png"
+                    }
+                ],
+                "tabTitleOverride": "TikTok NEWS",
+                "tileImage": [
+                    {
+                        "width": 1024,
+                        "height": 512,
+                        "url": "https://i.imgur.com/dkin5oS.png"
+                    }
+                ],
+                "title": {
+                    "ar": "Follow After on TikTok!",
+                    "en": "Follow After on TikTok!",
+                    "de": "Follow After on TikTok!",
+                    "es": "Follow After on TikTok!",
+                    "es-419": "Follow After on TikTok!",
+                    "fr": "Follow After on TikTok!",
+                    "it": "Follow After on TikTok!",
+                    "ja": "AfterのTikTokをフォローしよう!",
+                    "ko": "Follow After on TikTok!",
+                    "pl": "Follow After on TikTok!",
+                    "pt-BR": "Follow After on TikTok!",
+                    "ru": "Follow After on TikTok!",
+                    "tr": "Follow After on TikTok!"
+                },
+                "videoAutoplay": false,
+                "videoLoop": false,
+                "videoMute": false,
+                "videoStreamingEnabled": false,
+                "websiteButtonText": "TikTok",
+                "websiteURL": "https://www.tiktok.com/@after_ts"
+            },
+            "contentHash": "OGFNHostingContentHash1337",
+            "contentSchemaName": "MotdWebsiteNewsWithVideo"
+        }
+    ]
+}
