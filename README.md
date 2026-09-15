@@ -200,16 +200,16 @@ LauncherやBackend、Gameserverを管理して、
 
 # Launcher(半分くらいAIでコーディングしました！なぜならLauncherに時間かけたくなかったから！)
 
-- [x] Discord Auth
-- [x] Download
-- [x] Launch
-- [x] Connection
+- [x] Discord認証
+- [x] ダウンロード
+- [x] 起動
+- [x] 接続
 - [x] WebView
-- [x] TrashAntiCheat
-- [ ] Better Anti Cheat
-- [x] dll injection
-- [x] Launcher Customize
-- [x] Mod Download
+- [x] ゴミAntiCheat
+- [ ] 改良されたAnti Cheat
+- [x] dllインジェクション
+- [x] Launcherカスタマイズ機能
+- [x] Modダウンロード
 - [x] 一般的なLauncherとしての機能
 
 # Backend([LawinServer](https://github.com/Lawin0129/LawinServer),[Neonite](https://github.com/NeoniteDev/NeoniteV2),[Reload-Backend](https://github.com/Project-Reload/Reload-Backend)をベースにしています！)
