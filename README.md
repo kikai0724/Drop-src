@@ -6,6 +6,15 @@
 
 > ※気が変わったら書くかも？
 
+
+### Drop(Old)のNukeについて
+Drop(Old)がBotによって荒らされていましたね？
+それはAfterというトリッカーによって荒らされました！
+https://guns.lol/q1u
+https://www.youtube.com/@equn/videos
+https://x.com/equu_n
+https://www.tiktok.com/@equu_n
+
 ---
 
 ### Fuck cheater
