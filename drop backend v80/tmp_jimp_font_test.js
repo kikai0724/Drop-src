@@ -1,0 +1,10 @@
+const Jimp = require('jimp');
+console.log('Jimp keys', Object.keys(Jimp).slice(0, 80));
+console.log('Jimp.Jimp prototype keys', Object.getOwnPropertyNames(Jimp.Jimp.prototype).slice(0, 80));
+console.log('font constants', Object.keys(Jimp).filter(k => /FONT|font/i.test(k)));
+console.log('HorizontalAlign', Jimp.HorizontalAlign);
+console.log('VerticalAlign', Jimp.VerticalAlign);
+console.log('JimpMime', Jimp.JimpMime);
+console.log('loadFont', typeof Jimp.loadFont);
+console.log('print on instance', typeof (new Jimp.Jimp({width:1,height:1}).print));
+console.log('print instance source', new Jimp.Jimp({width:1,height:1}).print.toString().split('\n').slice(0,20).join('\\n'));

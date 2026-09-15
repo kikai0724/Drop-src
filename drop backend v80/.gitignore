@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+Config/config.local.json
+Config/*.local.json
+Config/config.*.json
+ClientSettings/
+ssl/
+*.pem
+*.key
+*.crt
+*.pfx
+*.log
+.DS_Store

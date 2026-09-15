@@ -1,0 +1,83 @@
+{
+  "//": "BR Item Shop Config",
+  "daily_section_1_1": {
+    "itemGrants": [
+      "AthenaCharacter:Character_AnvilAlarmRobin"
+    ],
+    "price": 0,
+    "SectionId": "Section1Daily",
+    "TileSize": "Small"
+  },
+  "daily_section_1_2": {
+    "itemGrants": [
+      "AthenaMusic:MusicPack_023_OG"
+    ],
+    "price": 0,
+    "SectionId": "Section1Daily",
+    "TileSize": "Small"
+  },
+  "daily_section_1_3": {
+    "itemGrants": [
+      "AthenaWrap:Wrap_187_SnowStreak"
+    ],
+    "price": 0,
+    "SectionId": "Section1Daily",
+    "TileSize": "Small"
+  },
+  "daily_section_1_4": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_063_SushiChef"
+    ],
+    "price": 0,
+    "SectionId": "Section1Daily",
+    "TileSize": "Small"
+  },
+  "daily_section_1_5": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_132_Pirate01Octopus"
+    ],
+    "price": 0,
+    "SectionId": "Section1Daily",
+    "TileSize": "Small"
+  },
+  "daily_section_1_6": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_112_TechOps"
+    ],
+    "price": 0,
+    "SectionId": "Section1Daily",
+    "TileSize": "Small"
+  },
+  "featured_section_1_1": {
+    "itemGrants": [
+      "AthenaCharacter:Character_AuroraOwl"
+    ],
+    "price": 0,
+    "SectionId": "Section1Featured",
+    "TileSize": "Small"
+  },
+  "featured_section_1_2": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_064_Biker"
+    ],
+    "price": 0,
+    "SectionId": "Section1Featured",
+    "TileSize": "Small"
+  },
+  "featured_section_1_3": {
+    "itemGrants": [
+      "AthenaBackpack:BID_055_PSBurnout"
+    ],
+    "price": 0,
+    "SectionId": "Section1Featured",
+    "TileSize": "Small"
+  },
+  "featured_section_1_4": {
+    "itemGrants": [
+      "AthenaCharacter:CID_487_Athena_Commando_M_DJRemix"
+    ],
+    "price": 0,
+    "SectionId": "Section1Featured",
+    "TileSize": "Small"
+  }
+}

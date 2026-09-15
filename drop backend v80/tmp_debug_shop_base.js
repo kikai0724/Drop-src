@@ -1,0 +1,12 @@
+const functions = require('./structs/functions');
+const shop = functions.getItemShop();
+const daily = shop.storefronts.find(s => s.name === 'BRDailyStorefront');
+const featured = shop.storefronts.find(s => s.name === 'BRFeaturedStorefront');
+const freeInDaily = daily.catalogEntries.filter(e => String(e.meta?.SectionId).toLowerCase().includes('section7'));
+console.log('BRDaily total', daily.catalogEntries.length, 'free count', freeInDaily.length);
+console.log('BRDaily unique sections', [...new Set(daily.catalogEntries.map(e => e.meta?.SectionId || 'NONE'))].sort());
+console.log('BRDaily first 20 sectionIds:', daily.catalogEntries.slice(0,20).map(e => e.meta?.SectionId));
+console.log('BRFeatured total', featured.catalogEntries.length, 'free count', featured.catalogEntries.filter(e => String(e.meta?.SectionId).toLowerCase().includes('section7')).length);
+console.log('BRFeatured unique sections', [...new Set(featured.catalogEntries.map(e => e.meta?.SectionId || 'NONE'))].sort());
+console.log('BRFeatured first 20 sectionIds:', featured.catalogEntries.slice(0,20).map(e => e.meta?.SectionId));
+console.log('Duplicate section entries count in BRDaily' , daily.catalogEntries.length - new Set(daily.catalogEntries.map(e => JSON.stringify(e.itemGrants) + '|' + e.meta?.SectionId)).size);

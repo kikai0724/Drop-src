@@ -1,0 +1,276 @@
+{
+  "Lil Tecca": {
+    "itemGrants": ["AthenaCharacter:Character_AnvilAlarmRobin"],
+    "price": 1500
+  },
+  "Iron Man (MCU)": {
+    "itemGrants": ["AthenaCharacter:Character_AuroraOwl"],
+    "price": 1500
+  },
+  "Catrin Glitch": {
+    "itemGrants": ["AthenaCharacter:Character_BoldTouch"],
+    "price": 1200
+  },
+  "Summer Slayer Joni": {
+    "itemGrants": ["AthenaCharacter:Character_CherryKnot"],
+    "price": 1200
+  },
+  "Chlorophyll Ivy": {
+    "itemGrants": ["AthenaCharacter:Character_CrimpPerfume"],
+    "price": 1500
+  },
+  "Zoey (HUNTR/X)": {
+    "itemGrants": ["AthenaCharacter:Character_EvokeFind"],
+    "price": 1500
+  },
+  "Esme": {
+    "itemGrants": ["AthenaCharacter:Character_FondAim"],
+    "price": 1200
+  },
+  "Coastal Catwoman": {
+    "itemGrants": ["AthenaCharacter:Character_HammerVice"],
+    "price": 1500
+  },
+  "High Tide Harley": {
+    "itemGrants": ["AthenaCharacter:Character_HumorShale_Teak"],
+    "price": 1500
+  },
+  "Oathbound Lexa": {
+    "itemGrants": ["AthenaCharacter:Character_LexaBlitz"],
+    "price": 1200
+  },
+  "Heatwave PJ": {
+    "itemGrants": ["AthenaCharacter:Character_LocalTalent_Daisy"],
+    "price": 800
+  },
+  "Camille": {
+    "itemGrants": ["AthenaCharacter:Character_Mouse"],
+    "price": 1500
+  },
+  "Lexa Hexbringer": {
+    "itemGrants": ["AthenaCharacter:Character_PatronPoppet"],
+    "price": 1200
+  },
+  "Phonix": {
+    "itemGrants": ["AthenaCharacter:Character_Phonix"],
+    "price": 1200
+  },
+  "Cat Holloway": {
+    "itemGrants": ["AthenaCharacter:Character_RowLiaison_Cafe"],
+    "price": 1200
+  },
+  "EsDeeKid": {
+    "itemGrants": ["AthenaCharacter:Character_StuffRasp"],
+    "price": 1200
+  },
+  "Black Cat": {
+    "itemGrants": ["AthenaCharacter:Character_SweetLetter"],
+    "price": 800
+  },
+  "Corascana": {
+    "itemGrants": ["AthenaCharacter:Character_ThunderBallet"],
+    "price": 1200
+  },
+  "Sand Witch Helsie": {
+    "itemGrants": ["AthenaCharacter:Character_VibrantShell"],
+    "price": 1200
+  },
+  "Summer Bundle": {
+    "itemGrants": [
+      "AthenaCharacter:Character_VibrantShell",
+      "AthenaCharacter:Character_CherryKnot"
+    ],
+    "price": 2000
+  },
+  "Indigo Kuno": {
+    "itemGrants": ["AthenaCharacter:CID_660_Athena_Commando_F_BandageNinjaBlue"],
+    "price": 2000
+  },
+  "Double Agent Hush": {
+    "itemGrants": ["AthenaCharacter:CID_786_Athena_Commando_F_CavalryBandit_Ghost"],
+    "price": 1200
+  },
+  "Sagan": {
+        "itemGrants": ["AthenaCharacter:CID_871_Athena_Commando_F_StreetFashionGarnet"],
+        "price": 800
+  },
+  "T-800": {
+        "itemGrants": ["AthenaCharacter:CID_993_Athena_Commando_M_TyphoonRobot_2YRGV"],
+        "price": 800
+  },
+  "Jinx": {
+        "itemGrants": ["AthenaCharacter:CID_A_256_Athena_Commando_F_UproarBraids_8IOZW"],
+        "price": 1200
+  },
+  "FNCS 3:1 Champion": {
+        "itemGrants": ["AthenaCharacter:CID_A_365_Athena_Commando_F_FNCS_Blue"],
+        "price": 800
+  },
+  "Hana": {
+        "itemGrants": ["AthenaCharacter:CID_A_452_Athena_Commando_F_Barium"],
+        "price": 1200
+  },
+  "Veronika": {
+        "itemGrants": ["AthenaCharacter:CID_A_477_Athena_Commando_F_Handlebar"],
+        "price": 600
+  },
+  "All Skin Bundle": {
+    "itemGrants": [
+      "AthenaCharacter:Character_AnvilAlarmRobin",
+      "AthenaCharacter:Character_AuroraOwl",
+      "AthenaCharacter:Character_BoldTouch",
+      "AthenaCharacter:Character_CherryKnot",
+      "AthenaCharacter:Character_CrimpPerfume",
+        "AthenaCharacter:Character_EvokeFind",
+        "AthenaCharacter:Character_FondAim",
+        "AthenaCharacter:Character_HammerVice",
+        "AthenaCharacter:Character_HumorShale_Teak",
+        "AthenaCharacter:Character_LexaBlitz",
+        "AthenaCharacter:Character_LocalTalent_Daisy",
+        "AthenaCharacter:Character_Mouse",
+        "AthenaCharacter:Character_PatronPoppet",
+        "AthenaCharacter:Character_Phonix",
+        "AthenaCharacter:Character_RowLiaison_Cafe",
+        "AthenaCharacter:Character_StuffRasp",
+        "AthenaCharacter:Character_SweetLetter",
+        "AthenaCharacter:Character_ThunderBallet",
+        "AthenaCharacter:Character_VibrantShell",
+        "AthenaCharacter:CID_660_Athena_Commando_F_BandageNinjaBlue",
+        "AthenaCharacter:CID_786_Athena_Commando_F_CavalryBandit_Ghost",
+        "AthenaCharacter:CID_871_Athena_Commando_F_StreetFashionGarnet",
+        "AthenaCharacter:CID_993_Athena_Commando_M_TyphoonRobot_2YRGV",
+        "AthenaCharacter:CID_A_256_Athena_Commando_F_UproarBraids_8IOZW",
+        "AthenaCharacter:CID_A_365_Athena_Commando_F_FNCS_Blue",
+        "AthenaCharacter:CID_A_452_Athena_Commando_F_Barium",
+        "AthenaCharacter:CID_A_477_Athena_Commando_F_Handlebar"
+        
+    ],
+    "price": 10000
+  },
+  "emote_anvil_alarm_moth": { "itemGrants": ["AthenaDance:EID_AnvilAlarmMoth"], "price": 500 },
+  "emote_bees_knees": { "itemGrants": ["AthenaDance:EID_BeesKnees"], "price": 500 },
+  "emote_booga": { "itemGrants": ["AthenaDance:EID_Booga"], "price": 500 },
+  "emote_broken_spot": { "itemGrants": ["AthenaDance:EID_BrokenSpot"], "price": 500 },
+  "emote_bulletproof": { "itemGrants": ["AthenaDance:EID_Bulletproof"], "price": 500 },
+  "emote_car_crash": { "itemGrants": ["AthenaDance:EID_CarCrash"], "price": 500 },
+  "emote_chime_curl_corn": { "itemGrants": ["AthenaDance:EID_ChimeCurlCorn"], "price": 500 },
+  "emote_coping": { "itemGrants": ["AthenaDance:EID_Coping"], "price": 500 },
+  "emote_couch_cushion": { "itemGrants": ["AthenaDance:EID_CouchCushion"], "price": 500 },
+  "emote_cyclone_head_bang": { "itemGrants": ["AthenaDance:EID_CycloneHeadBang"], "price": 500 },
+  "emote_delirious": { "itemGrants": ["AthenaDance:EID_Delirious"], "price": 500 },
+  "emote_downward_8gzua": { "itemGrants": ["AthenaDance:EID_Downward_8GZUA"], "price": 500 },
+  "emote_embrace": { "itemGrants": ["AthenaDance:EID_Embrace"], "price": 500 },
+  "emote_fiesta_flame": { "itemGrants": ["AthenaDance:EID_FiestaFlame"], "price": 500 },
+  "emote_fight_night": { "itemGrants": ["AthenaDance:EID_FightNight"], "price": 500 },
+  "emote_fuzz_ball": { "itemGrants": ["AthenaDance:EID_FuzzBall"], "price": 500 },
+  "emote_galaxy_girls": { "itemGrants": ["AthenaDance:EID_GalaxyGirls"], "price": 500 },
+  "emote_heart_beats": { "itemGrants": ["AthenaDance:EID_HeartBeats"], "price": 500 },
+  "emote_ice_magic": { "itemGrants": ["AthenaDance:EID_IceMagic"], "price": 500 },
+  "emote_july_books": { "itemGrants": ["AthenaDance:EID_JulyBooks"], "price": 500 },
+  "emote_keplinen_calcium": { "itemGrants": ["AthenaDance:EID_Keplinen_Calcium"], "price": 500 },
+  "emote_leap_frog": { "itemGrants": ["AthenaDance:EID_LeapFrog"], "price": 500 },
+  "emote_lotta_love": { "itemGrants": ["AthenaDance:EID_LottaLove"], "price": 500 },
+  "emote_march_treat_cup": { "itemGrants": ["AthenaDance:EID_MarchTreatCup"], "price": 500 },
+  "emote_marvelous": { "itemGrants": ["AthenaDance:EID_Marvelous"], "price": 500 },
+  "emote_mesmerize": { "itemGrants": ["AthenaDance:EID_mesmerize"], "price": 500 },
+  "emote_neon_dream": { "itemGrants": ["AthenaDance:EID_NeonDream"], "price": 500 },
+  "emote_outburst": { "itemGrants": ["AthenaDance:EID_Outburst"], "price": 500 },
+  "emote_play_loud": { "itemGrants": ["AthenaDance:EID_PlayLoud"], "price": 500 },
+  "emote_please_help": { "itemGrants": ["AthenaDance:EID_PleaseHelp"], "price": 500 },
+  "emote_psychic_7sozaz": { "itemGrants": ["AthenaDance:EID_Psychic_7SOZAZ"], "price": 500 },
+  "emote_relay_stick_carmine": { "itemGrants": ["AthenaDance:EID_RelayStick_Carmine"], "price": 500 },
+  "emote_repetition": { "itemGrants": ["AthenaDance:EID_Repetition"], "price": 500 },
+  "emote_sea_floor": { "itemGrants": ["AthenaDance:EID_SeaFloor"], "price": 500 },
+  "emote_stone_fly": { "itemGrants": ["AthenaDance:EID_StoneFly"], "price": 500 },
+  "emote_stop_light": { "itemGrants": ["AthenaDance:EID_StopLight"], "price": 500 },
+  "emote_stop_traffic": { "itemGrants": ["AthenaDance:EID_StopTraffic"], "price": 500 },
+  "emote_stuff_rasp": { "itemGrants": ["AthenaDance:EID_StuffRasp"], "price": 500 },
+  "emote_stumble": { "itemGrants": ["AthenaDance:EID_Stumble"], "price": 500 },
+  "emote_sun_burst": { "itemGrants": ["AthenaDance:EID_SunBurst"], "price": 500 },
+  "emote_t3rry": { "itemGrants": ["AthenaDance:EID_T3rry"], "price": 500 },
+  "emote_tally": { "itemGrants": ["AthenaDance:EID_Tally"], "price": 500 },
+  "emote_tampa_two_step": { "itemGrants": ["AthenaDance:EID_TampaTwoStep"], "price": 500 },
+  "emote_tangy_radish_flame": { "itemGrants": ["AthenaDance:EID_TangyRadishFlame"], "price": 500 },
+  "emote_touch_line": { "itemGrants": ["AthenaDance:EID_TouchLine"], "price": 500 },
+  "emote_trajectory": { "itemGrants": ["AthenaDance:EID_Trajectory"], "price": 500 },
+  "emote_tuff_trio": { "itemGrants": ["AthenaDance:EID_TuffTrio"], "price": 500 },
+  "emote_undeadus": { "itemGrants": ["AthenaDance:EID_Undeadus"], "price": 500 },
+  "emote_viral": { "itemGrants": ["AthenaDance:EID_Viral"], "price": 500 },
+  "emote_youth_flume": { "itemGrants": ["AthenaDance:EID_YouthFlume"], "price": 500 },
+  "musicpack_booga": { "itemGrants": ["AthenaMusicPack:MPID_Booga"], "price": 300 },
+  "musicpack_cuffed": { "itemGrants": ["AthenaMusicPack:MPID_Cuffed"], "price": 300 },
+  "musicpack_frnc": { "itemGrants": ["AthenaMusicPack:MPID_FRNC"], "price": 300 },
+  "musicpack_mood": { "itemGrants": ["AthenaMusicPack:MPID_Mood"], "price": 300 },
+  "musicpack_obsessed_with_you": { "itemGrants": ["AthenaMusicPack:MPID_ObsessedWithYou"], "price": 300 },
+  "musicpack_rnsm": { "itemGrants": ["AthenaMusicPack:MPID_RNSM"], "price": 300 },
+  "musicpack_dumbo": { "itemGrants": ["AthenaMusicPack:MPID_DUMBO"], "price": 300 },
+  "musicpack_one_more_time": { "itemGrants": ["AthenaMusicPack:MPID_OneMoreTime"], "price": 300 },
+  "All Music Bundle": {
+    "itemGrants": [
+      "AthenaMusicPack:MPID_Booga",
+      "AthenaMusicPack:MPID_Cuffed",
+      "AthenaMusicPack:MPID_FRNC",
+      "AthenaMusicPack:MPID_Mood",
+      "AthenaMusicPack:MPID_ObsessedWithYou",
+      "AthenaMusicPack:MPID_RNSM",
+      "AthenaMusicPack:MPID_DUMBO",
+      "AthenaMusicPack:MPID_OneMoreTime"
+    ],
+    "price": 1000
+  },
+  "All Emote Bundle": {
+    "itemGrants": [
+      "AthenaDance:EID_AnvilAlarmMoth",
+      "AthenaDance:EID_BeesKnees",
+      "AthenaDance:EID_Booga",
+      "AthenaDance:EID_BrokenSpot",
+      "AthenaDance:EID_Bulletproof",
+      "AthenaDance:EID_CarCrash",
+      "AthenaDance:EID_ChimeCurlCorn",
+      "AthenaDance:EID_Coping",
+      "AthenaDance:EID_CouchCushion",
+      "AthenaDance:EID_CycloneHeadBang",
+      "AthenaDance:EID_Delirious",
+      "AthenaDance:EID_Downward_8GZUA",
+      "AthenaDance:EID_Embrace",
+      "AthenaDance:EID_FiestaFlame",
+      "AthenaDance:EID_FightNight",
+      "AthenaDance:EID_FuzzBall",
+      "AthenaDance:EID_GalaxyGirls",
+      "AthenaDance:EID_HeartBeats",
+      "AthenaDance:EID_IceMagic",
+      "AthenaDance:EID_JulyBooks",
+      "AthenaDance:EID_Keplinen_Calcium",
+      "AthenaDance:EID_LeapFrog",
+      "AthenaDance:EID_LottaLove",
+      "AthenaDance:EID_MarchTreatCup",
+      "AthenaDance:EID_Marvelous",
+      "AthenaDance:EID_mesmerize",
+      "AthenaDance:EID_NeonDream",
+      "AthenaDance:EID_Outburst",
+      "AthenaDance:EID_PlayLoud",
+      "AthenaDance:EID_PleaseHelp",
+      "AthenaDance:EID_Psychic_7SOZAZ",
+      "AthenaDance:EID_RelayStick_Carmine",
+      "AthenaDance:EID_Repetition",
+      "AthenaDance:EID_SeaFloor",
+      "AthenaDance:EID_StoneFly",
+      "AthenaDance:EID_StopLight",
+      "AthenaDance:EID_StopTraffic",
+      "AthenaDance:EID_StuffRasp",
+      "AthenaDance:EID_Stumble",
+      "AthenaDance:EID_SunBurst",
+      "AthenaDance:EID_T3rry",
+      "AthenaDance:EID_Tally",
+      "AthenaDance:EID_TampaTwoStep",
+      "AthenaDance:EID_TangyRadishFlame",
+      "AthenaDance:EID_TouchLine",
+      "AthenaDance:EID_Trajectory",
+      "AthenaDance:EID_TuffTrio",
+      "AthenaDance:EID_Undeadus",
+      "AthenaDance:EID_Viral",
+      "AthenaDance:EID_YouthFlume"
+    ],
+    "price": 10000
+  }
+}

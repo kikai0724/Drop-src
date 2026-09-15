@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Backend Admin Panel</title>
+  <link rel="stylesheet" href="/admin/styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="hero">
+      <div>
+        <div class="eyebrow">REMOTE ACCESS</div>
+        <h1>Backend Admin Panel</h1>
+        <p>A dashboard for managing users, the shop, and settings quickly.</p>
+      </div>
+      <div class="hero-badge">
+        <img src="https://i.imgur.com/74CnPwD.png" alt="admin icon" />
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Basic Settings</h2>
+      <div class="grid" id="settingsGrid"></div>
+      <div class="row">
+        <button onclick="saveSettings()">Save</button>
+        <button class="secondary" onclick="restartBackend()">Force Stop</button>
+      </div>
+      <div id="status" class="status"></div>
+    </div>
+
+    <div class="card">
+      <h2>Server Status</h2>
+      <div class="grid status-grid">
+        <div><strong>Online Players</strong><div id="statusOnline">-</div></div>
+        <div><strong>Party Count</strong><div id="statusPartyCount">-</div></div>
+        <div><strong>Matchmaker Connection</strong><div id="statusMatchmakerConnected">-</div></div>
+      </div>
+      <div class="row">
+        <button onclick="loadAdminStatus()">Reload</button>
+      </div>
+      <div id="serverStatus" class="status"></div>
+    </div>
+
+    <div class="card">
+      <h2>Matchmaker Management</h2>
+      <div id="matchmakerStatus" class="status"></div>
+      <div class="row">
+        <button onclick="setMatchmaker('solo','open')">SOLO Open</button>
+        <button onclick="setMatchmaker('solo','close')">SOLO Close</button>
+        <button onclick="setMatchmaker('duo','open')">DUO Open</button>
+        <button onclick="setMatchmaker('duo','close')">DUO Close</button>
+      </div>
+      <div class="row">
+        <button onclick="setMatchmaker('low_solo','open')">LOW SOLO Open</button>
+        <button onclick="setMatchmaker('low_solo','close')">LOW SOLO Close</button>
+        <button onclick="setMatchmaker('creative','open')">CREATIVE Open</button>
+        <button onclick="setMatchmaker('creative','close')">CREATIVE Close</button>
+      </div>
+      <div class="row">
+        <button onclick="setMatchmaker('all','open')">Open All</button>
+        <button onclick="setMatchmaker('all','close')">Close All</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Party Management</h2>
+      <div id="partyList" class="list"></div>
+      <div class="row">
+        <button onclick="loadParties()">Reload</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>User Actions</h2>
+      <div class="grid">
+        <div>
+          <label for="targetAccountId">Account ID</label>
+          <input id="targetAccountId" type="text" />
+        </div>
+        <div>
+          <label for="xpAmount">XP Change Amount</label>
+          <input id="xpAmount" type="number" />
+        </div>
+        <div>
+          <label for="vbucksAmount">V-Bucks Change Amount</label>
+          <input id="vbucksAmount" type="number" />
+        </div>
+        <div>
+          <label for="itemTemplateId">Cosmetic templateId</label>
+          <input id="itemTemplateId" type="text" />
+        </div>
+        <div>
+          <label for="itemQuantity">Quantity</label>
+          <input id="itemQuantity" type="number" value="1" />
+        </div>
+      </div>
+      <div class="row">
+        <button onclick="grantXp()">Apply XP</button>
+        <button onclick="grantVbucks()">Apply V-Bucks</button>
+        <button onclick="grantItem()">Grant Cosmetic</button>
+      </div>
+      <div id="userActionStatus" class="status"></div>
+    </div>
+
+    <div class="card">
+      <h2>MOTD Target</h2>
+      <textarea id="motdJson" rows="14"></textarea>
+      <button onclick="saveMotdJson()">Save MOTD</button>
+      <button class="secondary" onclick="loadMotdJson()">Reload</button>
+      <div id="motdStatus" class="status"></div>
+    </div>
+
+    <div class="card">
+      <h2>Shop Settings</h2>
+      <div class="grid" id="shopGrid"></div>
+      <button onclick="saveShopSettings()">Save Shop Settings</button>
+      <div id="shopStatus" class="status"></div>
+    </div>
+
+    <div class="card">
+      <h2>Shop Contents (Catalog JSON)</h2>
+      <textarea id="catalogJson" rows="20"></textarea>
+      <button onclick="saveCatalogJson()">Save Catalog JSON</button>
+      <div id="catalogStatus" class="status"></div>
+    </div>
+  </div>
+
+  <script src="/admin/admin.js"></script>
+</body>
+</html>

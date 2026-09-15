@@ -1,0 +1,148 @@
+{
+    "moderators": [
+        ""
+    ],
+    "discord": {
+        "bUseDiscordBot": false,
+        "bot_token": "",
+        "guildId": "",
+        "bEnableInGamePlayerCount": false
+    },
+    "mongodb": {
+        "database": "mongodb://127.0.0.1/drop"
+    },
+    "chat": {
+        "//": "Disabling global chat can help the server to perform faster as less resources are used.",
+        "EnableGlobalChat": false
+    },
+    "bEnableDebugLogs": true,
+    "bEnableFormattedLogs": false,
+    "bEnableRebootUser": false,
+    "bEnableCrossBans": true,
+    "//": "These are all the events you can add to the game, like the rift in the sky!",
+    "port": 3551,
+    "Api": {
+        "bApiKey": "CHANGE_ME_API_KEY",
+        "reasons": {
+            "Kill": 150,
+            "Win": 250
+        }
+    },
+    "Website": {
+        "bUseWebsite": false,
+        "clientId": "",
+        "clientSecret": "",
+        "redirectUri": "",
+        "websiteport": 100
+    },
+    "matchmakerIP": "localhost:80",
+    "bTemporaryHostPlaylistOverrides": {
+        "ASIA": "playlist_showdownalt_solo"
+    },
+    "gameServerIP": [
+        {
+            "name": "Arena1",
+            "host": "127.0.0.1",
+            "port": 7777,
+            "playlist": "playlist_showdownalt_solo",
+            "region": "ASIA",
+            "subregion": "ASIA"
+        },
+        {
+            "name": "Arena2",
+            "host": "127.0.0.1",
+            "port": 7777,
+            "playlist": "playlist_showdownalt_solo",
+            "region": "ASIA",
+            "subregion": "ASIA"
+        },
+        {
+            "name": "Duo2",
+            "host": "127.0.0.1",
+            "port": 7777,
+            "playlist": "playlist_defaultduo",
+            "region": "ASIA",
+            "subregion": "ASIA"
+       },
+        {
+            "name": "50v50",
+            "host": "127.0.0.1",
+            "port": 7777,
+            "playlist": "playlist_50v50",
+            "region": "NAE",
+            "subregion": "NAE"
+        }
+    ],
+    "bEnableBattlepass": true,
+    "bBattlePassItems": true,
+    "bEnableLoginGrantSkin": false,
+    "bLoginGrantSkinTemplateId": "CID_028_Athena_Commando_F",
+    "bLoginGrantSkinStartAt": "2026-07-22T10:11",
+    "bLoginGrantSkinEndAt": "2026-07-23T10:10",
+    "bLoginGrantSkinDurationDays": 2,
+    "bEnableTodayPopularSection": true,
+    "bPopularSectionItemCount": 6,
+    "bBattlePassSeason": 12,
+    "bEnableOnlyOneVersionJoinable": false,
+    "bVersionJoinable": 11,
+    "bMaintenance": false,
+    "bUseAutoRotate": true,
+    "bEnableAutoRotateDebugLogs": true,
+    "bEnableDiscordWebhook": false,
+    "bChapterlimit": "2",
+    "bSeasonlimit": "2",
+    "bRotateTime": "9:00",
+    "bExcludedItems": [
+        "CID_VIP_Athena_Commando_M_GalileoGondola_SG",
+        "CID_636_Athena_Commando_M_GalileoGondola_78MFZ",
+        "CID_637_Athena_Commando_M_GalileoOutrigger_7Q0YU",
+        "CID_VIP_Athena_Commando_M_GalileoFerry_SG",
+        "CID_VIP_Athena_Commando_F_GalileoRocket_SG",
+        "CID_568_Athena_Commando_M_RebirthSoldier"
+    ],
+    "bItemShopWebhook": "",
+    "bDailyItemsAmount": 60,
+    "bFeaturedItemsAmount": 36,
+    "bShopSections": [
+        {
+            "sectionName": "Section 1",
+            "dailyItemsAmount": 6,
+            "featuredItemsAmount": 4
+        }
+    ],
+    "bEnableReports": false,
+    "bReportChannelId": 0,
+    "bCompletedSeasonalQuests": false,
+    "bEnableSACRewards": false,
+    "bPercentageSACRewards": 0,
+    "bEnableAutoBackendRestart": false,
+    "bRestartTime": "",
+    "bEnableBackendStatus": false,
+    "bBackendStatusChannelId": "",
+    "bEnableHTTPS": false,
+    "ssl": {
+        "cert": "./ssl/example_certificate.crt",
+        "//ca//": "./ssl/example_ca_bundle.crt",
+        "//": "Optional (Only If You Have A CA Bundle from your ssl certificate)",
+        "key": "./ssl/example_private.key"
+    },
+    "bEnableCalderaService": false,
+    "bGameVersion": "27.11",
+    "bCalderaServicePort": 5000,
+    "bEnableGeodeEvent": false,
+    "geodeEventStartDate": "2020-01-01T00:00:00.000Z",
+    "bEnableCrackInTheSky": false,
+    "bEnableS4OddityPrecursor": false,
+    "bEnableS4OddityExecution": false,
+    "S4OddityEventStartDate": "2020-01-01T00:00:00.000Z",
+    "S4OddityEventsInterval": 0,
+    "bEnableS5OddityPrecursor": false,
+    "S5OddityPrecursorDate": "2020-01-01T00:00:00.000Z",
+    "bEnableS5OddityExecution": false,
+    "S5OddityExecutionDate": "2020-01-01T00:00:00.000Z",
+    "bEnableCubeLightning": false,
+    "cubeSpawnDate": "2020-01-01T00:00:00.000Z",
+    "bEnableBlockbusterRiskyEvent": false,
+    "bEnableCubeLake": false,
+    "cubeLakeDate": "2020-01-01T00:00:00.000Z"
+}

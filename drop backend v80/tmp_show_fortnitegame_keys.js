@@ -1,0 +1,1 @@
+const fs = require('fs'); const path = require('path'); const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'responses', 'fortnitegame.json'), 'utf8')); console.log(Object.keys(data).slice(0,40));
