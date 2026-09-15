@@ -247,7 +247,7 @@ LauncherやBackend、Gameserverを管理して、
     * [x] デイリークエストを入れ替える
     * [x] パーティーで、ミッションを達成する
 * ゲーム内イベント:
-    * s12用のBackendですが、Reload-Backendベースなのでおそらく使える！
+    * s12用のBackendですが、[Reload-Backend](https://github.com/Project-Reload/Reload-Backend)ベースなのでおそらく使える！
 * SAC(クリエイターサポート):
     * [ ] クリエイターサポートをする仕組みに対応しており、Discord上で `/createsac {コード} {ゲーム内ユーザー名}` コマンドを使って設定できます。
     * [x] クリエイターサポートをするクリエイター側へのV-Bucksの報酬
