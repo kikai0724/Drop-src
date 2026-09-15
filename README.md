@@ -217,7 +217,7 @@ LauncherやBackend、Gameserverを管理して、
 * ロッカー:
     * [x] アイテムの変更
     * [x] バナーアイコンとバナーカラーの変更
-    * [△] アイテムのスタイル変更を適用する。
+    * [?] アイテムのスタイル変更を適用する。
     * [x] Favoriting items.
     * [x] Marking items as seen.
 * Friends:
