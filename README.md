@@ -14,6 +14,7 @@ https://guns.lol/q1u
 https://www.youtube.com/@equn/videos
 https://x.com/equu_n
 https://www.tiktok.com/@equu_n
+[なんかいて草](https://cdn.discordapp.com/attachments/1499053034179788841/1549381014126862416/after.png?ex=6aaa7d03&is=6aa92b83&hm=cd5692e0f4106e49afe2dee8a075c25d1dc4335d6d8eef05a42205480d95abc4)
 
 ---
 
