@@ -1,4 +1,4 @@
-# Drop src
+# Drop src (最終更新 2026/09/15 20:37:44)
 **You are not permitted to use this in projects or similar contexts.**
 
 使い方はめんどくさいので書きません。  
