@@ -1,4 +1,4 @@
-# Drop src (最終更新 2026/09/15 20:37:44)
+# Drop src (最終更新 2026/09/16 20:04:42)
 **You are not permitted to use this in projects or similar contexts.**
 
 使い方はめんどくさいので書きません。  
@@ -6,6 +6,7 @@
 
 > ※気が変わったら書くかも？
 
+## この前Dropの鯖にて	[Delete Drop-Launcher/public/fonts directory](https://github.com/kikai0724/Drop-src/commit/79b16e61c55531164c0c6c971a6bf77b99aca0a9) のコミットがあったけど、それ消さないと違反だよと言っている方が居ましたが、本物のFontはおいてないので使えません^^
 
 ### Drop(Old)のNukeについて
 Drop(Old)がBotによって荒らされていましたね？
